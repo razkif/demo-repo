@@ -1,2 +1,2 @@
 # demo-repo
-Demo repo
+Demo repo is the name of this repo
